@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>718287711641-c179tk5edgoqnudmg9181tf4kttscjf4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.718287711641-c179tk5edgoqnudmg9181tf4kttscjf4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>718287711641-98sn70dgq7tc9ltc0h22av6q6tm4hmhm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC0Mnu_1HBvvjgIAOSgH2Rhq2BsIiUfvPg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>718287711641</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.spagreen.meetair</string>
+	<key>PROJECT_ID</key>
+	<string>meetair-736a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meetair-736a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:718287711641:ios:b4fde1f2923fd770887708</string>
+	<key>DATABASE_URL</key>
+	<string>https://meetair-736a5.firebaseio.com</string>
+</dict>
+</plist>
