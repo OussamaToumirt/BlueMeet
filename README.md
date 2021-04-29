@@ -1,4 +1,4 @@
-# MeetAir
+# BlueMeet
 
 Video conferenece app
 
